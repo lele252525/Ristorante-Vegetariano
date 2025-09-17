@@ -15,4 +15,5 @@ public class Costanti {
 	
 	public static final String GEST_CONTROLLER = "/gestione_controllers";
 	public static final String SALVA_PERS = "/salva_persona";
+	public static final String LEGGI_PERS = "/leggi_persona";
 }

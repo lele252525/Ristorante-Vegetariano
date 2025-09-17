@@ -8,9 +8,7 @@ public class PersonaDTO {
 	private Long id;
 	
 	private String nome;
-	
 	private boolean vegetariano;
-	
-	private boolean consumoPasto;
+	private String consumoPasto;
 
 }

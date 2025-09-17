@@ -33,6 +33,7 @@ public class DTOMapper {
 		personaDTO.setId(persona.getId());
 		personaDTO.setNome(persona.getNome());
 		personaDTO.setVegetariano(persona.isVegetariano());
+		personaDTO.setConsumoPasto(persona.getConsumoPasto());
 		return personaDTO;
 	}
 	
