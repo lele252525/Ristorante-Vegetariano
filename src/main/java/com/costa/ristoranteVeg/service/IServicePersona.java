@@ -6,6 +6,4 @@ public interface IServicePersona {
 	
 	public void salva(Persona persona);
 	
-	public void consumaPasto();
-	public void nonConsumaPasto();
 }

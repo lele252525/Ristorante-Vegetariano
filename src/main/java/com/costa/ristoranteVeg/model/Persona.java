@@ -17,11 +17,13 @@ public class Persona {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@Column(name = Costanti.NOME_PERSONE)
+	@Column(name = Costanti.ID_PERSONE)
 	private Long id;
 	@Column(name = Costanti.NOME_PERSONE)
 	private String nome;
-	@Column(name = Costanti.VEG_PERSONE)
+	@Column(name = Costanti.VEGET_PERSONE)
 	private boolean vegetariano;
+	@Column(name = Costanti.CONSUMO_PASTO_VEGETARIANO)
+	private String consumoPasto;
 	
 }

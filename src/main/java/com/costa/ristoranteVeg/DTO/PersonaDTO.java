@@ -10,5 +10,7 @@ public class PersonaDTO {
 	private String nome;
 	
 	private boolean vegetariano;
+	
+	private boolean consumoPasto;
 
 }
