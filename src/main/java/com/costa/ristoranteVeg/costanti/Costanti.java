@@ -16,4 +16,6 @@ public class Costanti {
 	public static final String GEST_CONTROLLER = "/gestione_controllers";
 	public static final String SALVA_PERS = "/salva_persona";
 	public static final String LEGGI_PERS = "/leggi_persona";
+	public static final String CANC_PERS = "/cancella_persona";
+	public static final String PERS_CANCELLATA = "L'utente è stato cancellato";
 }

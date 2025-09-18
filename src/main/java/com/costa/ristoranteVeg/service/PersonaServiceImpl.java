@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
 
 import com.costa.ristoranteVeg.DTO.DTOMapper;
 import com.costa.ristoranteVeg.DTO.PersonaDTO;
-import com.costa.ristoranteVeg.RistoranteVegApplication;
 import com.costa.ristoranteVeg.model.Persona;
 import com.costa.ristoranteVeg.repository.PersonaRepo;
 
